@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasanthaniroshan&label=Profile%20views&color=0e75b6&style=flat" alt="yasanthaniroshan" /> </p>
 
-- 🔭 I’m currently working on [Django Zero to Hero](https://github.com/yasanthaniroshan/Obo-blocks)
+- 🔭 I’m currently working on [Obo-Blocks](https://github.com/yasanthaniroshan/Obo-blocks)
 
 - 📝 I regularly write articles on [https://medium.com/@niroshanyi](https://medium.com/@niroshanyi)
 
